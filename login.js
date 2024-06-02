@@ -30,4 +30,4 @@ fetch('https://weatherapp-backend-xi-two.vercel.app/users/signin', {method: 'POS
 .then(data => {
     window.location.assign('index.html')
 })
-})
+}) 
